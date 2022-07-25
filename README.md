@@ -1,4 +1,4 @@
-This dataset lives in: https://tagtog.net/ashishnarwal/BBC-News-Classification
+This dataset lives in: https://tagtog.com/ashishnarwal/BBC-News-Classification
 
 This zip was generated with:
   * date: _2021-09-29T20:02:48.347Z_
